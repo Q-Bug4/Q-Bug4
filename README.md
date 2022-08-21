@@ -5,6 +5,9 @@
 - 👯 I’m looking to collaborate on development regardless of language or other else.
 - 💬 Ask me at any time.
 
-📊 &nbsp;**The wakatime stats this week**
+#### 📊 &nbsp;**The wakatime stats this week**  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Q_Bug4)](https://github.com/anuraghazra/github-readme-stats)
+#### 🎵 &nbsp;**Spotify playing**  
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=e5y1o4x7kdt9kf2blu4wvmb4s&unique={true|1|on|yes})
