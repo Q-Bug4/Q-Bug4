@@ -7,7 +7,7 @@
 
 #### 📊 &nbsp;**The wakatime stats this week**  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -62,7 +62,7 @@ Linux                    6 hrs 2 mins        ███████████�
 ```
 
 
- Last Updated on 05/09/2022 11:26:10 UTC
+ Last Updated on 05/09/2022 16:25:56 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
