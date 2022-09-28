@@ -11,8 +11,50 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+**I'm a Night 🦉** 
 
- Last Updated on 27/09/2022 18:25:54 UTC
+```text
+🌞 Morning    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.21% 
+🌆 Daytime    53 commits     ███████░░░░░░░░░░░░░░░░░░   27.89% 
+🌃 Evening    113 commits    ██████████████░░░░░░░░░░░   59.47% 
+🌙 Night      16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.42%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       45 commits     ██████░░░░░░░░░░░░░░░░░░░   23.68% 
+Tuesday      19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Wednesday    20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.37% 
+Friday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.79% 
+Saturday     34 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.89% 
+Sunday       47 commits     ██████░░░░░░░░░░░░░░░░░░░   24.74%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 28/09/2022 18:26:09 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
