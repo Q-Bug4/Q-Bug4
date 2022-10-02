@@ -7,7 +7,7 @@
 
 #### 📊 &nbsp;**The wakatime stats this week**  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,21 +40,22 @@ Sunday       50 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     2 hrs 41 mins       █████████████████████████   99.95% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 41 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+kael_file_browser        2 hrs 41 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 41 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 01/10/2022 18:20:11 UTC
+ Last Updated on 02/10/2022 18:20:27 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
