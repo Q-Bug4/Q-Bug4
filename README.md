@@ -59,7 +59,7 @@ Linux                    1 hr 30 mins        ███████████�
 ```
 
 
- Last Updated on 20/10/2022 18:34:11 UTC
+ Last Updated on 21/10/2022 18:25:04 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
