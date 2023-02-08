@@ -40,24 +40,21 @@ Sunday       44 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     11 mins             ███████████████████████░░   93.09% 
-GitIgnore file           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.32% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 12 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cli-memo                 9 mins              ███████████████████░░░░░░   75.7% 
-comprehensive-rust       2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.3%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    12 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 07/02/2023 18:15:59 UTC
+ Last Updated on 08/02/2023 18:16:36 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
