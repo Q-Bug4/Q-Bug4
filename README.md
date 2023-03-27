@@ -7,7 +7,7 @@
 
 #### 📊 &nbsp;**The wakatime stats this week**  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,21 +40,25 @@ Sunday       31 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     38 mins             █████████████████░░░░░░░░   69.76% 
+Markdown                 11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.46% 
+Groovy                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.38% 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 55 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hollow-reference-implemen54 mins             ████████████████████████░   98.59% 
+cli-memo                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    55 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 26/03/2023 18:14:29 UTC
+ Last Updated on 27/03/2023 18:17:43 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
