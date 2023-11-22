@@ -7,7 +7,7 @@
 
 #### 📊 &nbsp;**The wakatime stats this week**  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -51,7 +51,7 @@ WSL                      56 mins             ███████████�
 ```
 
 
- Last Updated on 21/11/2023 18:15:57 UTC
+ Last Updated on 22/11/2023 18:15:04 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
