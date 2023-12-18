@@ -38,23 +38,20 @@ Sunday                   73 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     6 mins              ███████████████████████░░   92.72 % 
-Java                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              ███████████████████████░░   92.72 % 
-IntelliJ                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          6 mins              ███████████████████████░░   92.72 % 
-FileSpiderBackend        0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 17/12/2023 18:13:36 UTC
+ Last Updated on 18/12/2023 18:14:54 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
