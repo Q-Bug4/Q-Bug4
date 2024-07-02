@@ -7,7 +7,7 @@
 
 #### 📊 &nbsp;**The wakatime stats this week**  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -38,20 +38,21 @@ Sunday                   80 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     1 hr 52 mins        █████████████████████████   99.79 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+RustRover                1 hr 52 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+filewatch                1 hr 52 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/07/2024 18:21:55 UTC
+ Last Updated on 02/07/2024 18:21:46 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
