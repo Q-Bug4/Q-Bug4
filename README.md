@@ -38,22 +38,20 @@ Sunday                   82 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     45 mins             ███████████████████████░░   92.47 % 
-SQL                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-FileSpiderBackend        49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/07/2024 18:23:23 UTC
+ Last Updated on 19/07/2024 18:22:20 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
