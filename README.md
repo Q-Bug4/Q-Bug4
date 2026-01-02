@@ -7,51 +7,10 @@
 
 #### 📊 &nbsp;**The wakatime stats this week**  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2024%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-🌆 Daytime                112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-🌃 Evening                522 commits         █████████████░░░░░░░░░░░░   50.14 % 
-🌙 Night                  334 commits         ████████░░░░░░░░░░░░░░░░░   32.08 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Tuesday                  120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Wednesday                103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Thursday                 86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-Friday                   302 commits         ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-Saturday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Sunday                   206 commits         █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 01/01/2026 18:43:58 UTC
+ Last Updated on 02/01/2026 18:43:55 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
