@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2045%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -38,23 +38,20 @@ Sunday                   206 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    29 mins             ██████████████████░░░░░░░   70.34 % 
-Dart                     12 mins             ███████░░░░░░░░░░░░░░░░░░   29.66 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              40 mins             ████████████████████████░   96.02 % 
-VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-prompt-memo              42 mins             █████████████████████████   99.90 % 
-flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 19/01/2026 18:32:53 UTC
+ Last Updated on 20/01/2026 18:37:24 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
