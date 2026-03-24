@@ -38,23 +38,20 @@ Sunday                   235 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     18 mins             ██████████████████████░░░   87.24 % 
-YAML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-springai                 20 mins             ████████████████████████░   95.84 % 
-hollow-reference-implemen0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/03/2026 18:55:10 UTC
+ Last Updated on 24/03/2026 19:03:50 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
