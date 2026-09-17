@@ -7,9 +7,9 @@
 
 #### 📊 &nbsp;**The wakatime stats this week**  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -40,56 +40,53 @@ Sunday                   235 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   40.11 % 
-Python                   2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-Other                    1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Groovy                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Markdown                 2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.58 % 
+Other                    1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Python                   1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+TypeScript               1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 35 mins       █████████████████░░░░░░░░   67.21 % 
-Claude Code              2 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-Neovim                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+VS Code                  5 hrs 37 mins       █████████████████░░░░░░░░   67.54 % 
+Claude Code              2 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.46 % 
 
 🐱‍💻 Projects: 
-CapRisk-Notebook-2.0     3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.89 % 
-blog                     2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.15 % 
-EX                       2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-cat-count                1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-tauri2harm               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+cat-count                3 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   38.14 % 
+CapRisk-Notebook-2.0     3 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.43 % 
+blog                     1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+tauri2harm               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+cc-switch                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Mac                      9 hrs 48 mins       █████████████████████████   99.94 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Mac                      8 hrs 18 mins       █████████████████████████   99.87 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 5 mins (92.66%)
+⏱ AI Coding Time: 7 hrs 57 mins (95.54%)
 
-✍️ 2,830 lines written by AI, 188 lines written by hand (93.77% AI-written)
+✍️ 4,067 lines written by AI, 160 lines written by hand (96.21% AI-written)
 
-🔤 5,630,940 Input Tokens, 519,299 Output Tokens
+🔤 6,191,383 Input Tokens, 415,230 Output Tokens
 
-💵 $287.04 Estimated AI Cost This Week
+💵 $283.14 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 137 AI Prompts
+🧠 18 AI Sessions, 104 AI Prompts
 
-Hermes                   1,701 lines         ██████████████░░░░░░░░░░░   54.82 % 
-Deepseek                 1,362 lines         ███████████░░░░░░░░░░░░░░   43.89 % 
-Glm                      37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Claude-Code              3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Glm                      2,890 lines         ██████████████████░░░░░░░   70.27 % 
+Hermes                   1,223 lines         ███████░░░░░░░░░░░░░░░░░░   29.73 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.77% of written lines came from AI
-📝 Concise Prompter — average 302 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 5.83% of changed lines were hand-edited
+🤖 AI-Driven — 96.21% of written lines came from AI
+📝 Concise Prompter — average 114 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 3.77% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/09/2026 20:59:51 UTC
+ Last Updated on 17/09/2026 21:03:14 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
