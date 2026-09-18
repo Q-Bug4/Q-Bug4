@@ -7,9 +7,9 @@
 
 #### 📊 &nbsp;**The wakatime stats this week**  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -40,53 +40,53 @@ Sunday                   235 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.58 % 
-Other                    1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-Python                   1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-TypeScript               1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+TypeScript               3 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   37.37 % 
+Other                    1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Markdown                 1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Rust                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Python                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 37 mins       █████████████████░░░░░░░░   67.54 % 
-Claude Code              2 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.46 % 
+Claude Code              6 hrs 4 mins        ███████████████░░░░░░░░░░   60.56 % 
+VS Code                  3 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   39.44 % 
 
 🐱‍💻 Projects: 
-cat-count                3 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   38.14 % 
-CapRisk-Notebook-2.0     3 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.43 % 
-blog                     1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-tauri2harm               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-cc-switch                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+cat-count                6 hrs 54 mins       █████████████████░░░░░░░░   68.86 % 
+blog                     1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+CapRisk-Notebook-2.0     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+vsc-git-diff-up-down-layo30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+tauri2harm               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 💻 Operating System: 
-Mac                      8 hrs 18 mins       █████████████████████████   99.87 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Mac                      10 hrs 1 min        █████████████████████████   99.94 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 57 mins (95.54%)
+⏱ AI Coding Time: 9 hrs 38 mins (96.09%)
 
-✍️ 4,067 lines written by AI, 160 lines written by hand (96.21% AI-written)
+✍️ 7,413 lines written by AI, 244 lines written by hand (96.81% AI-written)
 
-🔤 6,191,383 Input Tokens, 415,230 Output Tokens
+🔤 7,405,931 Input Tokens, 592,630 Output Tokens
 
-💵 $283.14 Estimated AI Cost This Week
+💵 $347.95 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 104 AI Prompts
+🧠 18 AI Sessions, 120 AI Prompts
 
-Glm                      2,890 lines         ██████████████████░░░░░░░   70.27 % 
-Hermes                   1,223 lines         ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+Glm                      7,374 lines         ████████████████████████░   95.97 % 
+Hermes                   310 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.21% of written lines came from AI
-📝 Concise Prompter — average 114 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 3.77% of changed lines were hand-edited
+🤖 AI-Driven — 96.81% of written lines came from AI
+📄 Detailed Prompter — average 1,021 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 3.2% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/09/2026 21:03:14 UTC
+ Last Updated on 18/09/2026 20:34:11 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
