@@ -40,53 +40,53 @@ Sunday                   235 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   37.37 % 
-Other                    1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Markdown                 1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Rust                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Python                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+TypeScript               3 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   41.87 % 
+Other                    1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Markdown                 1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Rust                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Groovy                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 4 mins        ███████████████░░░░░░░░░░   60.56 % 
-VS Code                  3 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   39.44 % 
+Claude Code              6 hrs 4 mins        █████████████████░░░░░░░░   67.86 % 
+VS Code                  2 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   32.14 % 
 
 🐱‍💻 Projects: 
-cat-count                6 hrs 54 mins       █████████████████░░░░░░░░   68.86 % 
-blog                     1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-CapRisk-Notebook-2.0     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-vsc-git-diff-up-down-layo30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-tauri2harm               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+cat-count                6 hrs 54 mins       ███████████████████░░░░░░   77.17 % 
+blog                     1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+vsc-git-diff-up-down-layo30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+tauri2harm               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+skills                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 💻 Operating System: 
-Mac                      10 hrs 1 min        █████████████████████████   99.94 % 
+Mac                      8 hrs 56 mins       █████████████████████████   99.94 % 
 Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 38 mins (96.09%)
+⏱ AI Coding Time: 8 hrs 34 mins (95.76%)
 
-✍️ 7,413 lines written by AI, 244 lines written by hand (96.81% AI-written)
+✍️ 7,401 lines written by AI, 244 lines written by hand (96.81% AI-written)
 
-🔤 7,405,931 Input Tokens, 592,630 Output Tokens
+🔤 7,316,809 Input Tokens, 586,464 Output Tokens
 
-💵 $347.95 Estimated AI Cost This Week
+💵 $346.68 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 120 AI Prompts
+🧠 16 AI Sessions, 107 AI Prompts
 
-Glm                      7,374 lines         ████████████████████████░   95.97 % 
-Hermes                   310 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Glm                      7,374 lines         ████████████████████████░   96.12 % 
+Hermes                   298 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 96.81% of written lines came from AI
-📄 Detailed Prompter — average 1,021 characters per prompt
+📄 Detailed Prompter — average 1,130 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 3.2% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/09/2026 20:34:11 UTC
+ Last Updated on 19/09/2026 20:11:41 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
