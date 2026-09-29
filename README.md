@@ -7,9 +7,9 @@
 
 #### 📊 &nbsp;**The wakatime stats this week**  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-400%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -40,53 +40,51 @@ Sunday                   235 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 15 mins       █████████████░░░░░░░░░░░░   51.73 % 
-Markdown                 1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-Other                    47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Makefile                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Python                   3 hrs 11 mins       ███████████████░░░░░░░░░░   59.94 % 
+Markdown                 1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+TOML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Makefile                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 42 mins       ███████████████████░░░░░░   74.86 % 
-VS Code                  1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-Neovim                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Claude Code              3 hrs 59 mins       ███████████████████░░░░░░   74.80 % 
+VS Code                  1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
 
 🐱‍💻 Projects: 
-thinking-langgraph       2 hrs 46 mins       ███████████░░░░░░░░░░░░░░   44.09 % 
-EX                       2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   35.88 % 
-ai-infra                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-model-daily              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-cat-count                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+thinking-langgraph       2 hrs 46 mins       █████████████░░░░░░░░░░░░   51.92 % 
+EX                       2 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   40.91 % 
+open_deep_research       17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+proj                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+blog                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      6 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 1 min (95.93%)
+⏱ AI Coding Time: 5 hrs 3 mins (94.76%)
 
-✍️ 3,351 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,935 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,253,771 Input Tokens, 131,891 Output Tokens
+🔤 1,322,467 Input Tokens, 132,034 Output Tokens
 
-💵 $60.03 Estimated AI Cost This Week
+💵 $59.24 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 51 AI Prompts
+🧠 11 AI Sessions, 30 AI Prompts
 
-Glm                      3,353 lines         ██████████████████████░░░   88.96 % 
-Hermes                   416 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Glm                      3,353 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 777 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.19% of changed lines were hand-edited
+📄 Detailed Prompter — average 1,308 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.21% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/09/2026 23:01:10 UTC
+ Last Updated on 29/09/2026 21:59:57 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
