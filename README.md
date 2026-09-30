@@ -7,11 +7,11 @@
 
 #### 📊 &nbsp;**The wakatime stats this week**  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2038%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -40,51 +40,51 @@ Sunday                   235 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 11 mins       ███████████████░░░░░░░░░░   59.94 % 
-Markdown                 1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-TOML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Makefile                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Python                   3 hrs 7 mins        ██████████████░░░░░░░░░░░   57.86 % 
+Markdown                 1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+TOML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Makefile                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 59 mins       ███████████████████░░░░░░   74.80 % 
-VS Code                  1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+Claude Code              3 hrs 57 mins       ██████████████████░░░░░░░   73.38 % 
+VS Code                  1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   26.62 % 
 
 🐱‍💻 Projects: 
-thinking-langgraph       2 hrs 46 mins       █████████████░░░░░░░░░░░░   51.92 % 
-EX                       2 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   40.91 % 
-open_deep_research       17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-proj                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-blog                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+thinking-langgraph       2 hrs 46 mins       █████████████░░░░░░░░░░░░   51.43 % 
+EX                       2 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.82 % 
+open_deep_research       25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+proj                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+blog                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Mac                      5 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 3 mins (94.76%)
+⏱ AI Coding Time: 5 hrs 6 mins (94.84%)
 
-✍️ 2,935 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,533 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,322,467 Input Tokens, 132,034 Output Tokens
+🔤 1,402,859 Input Tokens, 134,416 Output Tokens
 
-💵 $59.24 Estimated AI Cost This Week
+💵 $58.86 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 30 AI Prompts
+🧠 11 AI Sessions, 29 AI Prompts
 
-Glm                      3,353 lines         █████████████████████████   100.00 % 
+Glm                      2,951 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,308 characters per prompt
+📄 Detailed Prompter — average 1,351 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.21% of changed lines were hand-edited
+🚀 High AI Trust — 0.24% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/09/2026 21:59:57 UTC
+ Last Updated on 30/09/2026 21:58:38 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
