@@ -40,51 +40,50 @@ Sunday                   235 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 7 mins        ██████████████░░░░░░░░░░░   57.86 % 
-Markdown                 1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-TOML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-Makefile                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Python                   2 hrs 50 mins       ██████████████░░░░░░░░░░░   56.55 % 
+Markdown                 1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+TOML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Makefile                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 57 mins       ██████████████████░░░░░░░   73.38 % 
-VS Code                  1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+Claude Code              3 hrs 57 mins       ████████████████████░░░░░   78.68 % 
+VS Code                  1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
 
 🐱‍💻 Projects: 
-thinking-langgraph       2 hrs 46 mins       █████████████░░░░░░░░░░░░   51.43 % 
-EX                       2 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.82 % 
-open_deep_research       25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-proj                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-blog                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+thinking-langgraph       2 hrs 46 mins       ██████████████░░░░░░░░░░░   55.15 % 
+EX                       1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   36.11 % 
+open_deep_research       25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+blog                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Mac                      5 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 6 mins (94.84%)
+⏱ AI Coding Time: 4 hrs 59 mins (99.18%)
 
 ✍️ 2,533 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,402,859 Input Tokens, 134,416 Output Tokens
+🔤 1,373,649 Input Tokens, 127,723 Output Tokens
 
-💵 $58.86 Estimated AI Cost This Week
+💵 $58.81 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 29 AI Prompts
+🧠 9 AI Sessions, 28 AI Prompts
 
 Glm                      2,951 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,351 characters per prompt
+📄 Detailed Prompter — average 1,399 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.24% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/09/2026 21:58:38 UTC
+ Last Updated on 01/10/2026 22:26:47 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
