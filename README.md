@@ -7,9 +7,9 @@
 
 #### 📊 &nbsp;**The wakatime stats this week**  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-402%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -40,49 +40,48 @@ Sunday                   235 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 12 mins        ████████████████░░░░░░░░░   63.64 % 
-Other                    18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Markdown                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Bash                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Python                   17 mins             █████████████████░░░░░░░░   67.50 % 
+Bash                     7 mins              ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Claude Code              1 hr 27 mins        ███████████████████░░░░░░   77.06 % 
-VS Code                  26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+VS Code                  26 mins             █████████████████████████   99.23 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🐱‍💻 Projects: 
-thinking-langgraph       1 hr 27 mins        ███████████████████░░░░░░   76.88 % 
-open_deep_research       25 mins             ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-blog                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+open_deep_research       25 mins             ████████████████████████░   96.33 % 
+blog                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 💻 Operating System: 
-Mac                      1 hr 53 mins        █████████████████████████   100.00 % 
+Mac                      26 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 51 mins (97.82%)
+⏱ AI Coding Time: 23 mins (90.57%)
 
-✍️ 168 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 35 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 232,667 Input Tokens, 37,650 Output Tokens
+🔤 192,854 Input Tokens, 20,328 Output Tokens
 
-💵 $16.92 Estimated AI Cost This Week
+💵 $2.01 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 14 AI Prompts
+🧠 3 AI Sessions, 4 AI Prompts
 
-Glm                      385 lines           █████████████████████████   100.00 % 
+Glm                      35 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 153 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 321 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/10/2026 20:59:01 UTC
+ Last Updated on 05/10/2026 23:50:52 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
