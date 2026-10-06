@@ -40,48 +40,45 @@ Sunday                   235 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   17 mins             █████████████████░░░░░░░░   67.50 % 
-Bash                     7 mins              ███████░░░░░░░░░░░░░░░░░░   27.67 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Bash                     7 mins              ████████████████████░░░░░   81.81 % 
+Markdown                 0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   99.23 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+VS Code                  18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-open_deep_research       25 mins             ████████████████████████░   96.33 % 
-blog                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+open_deep_research       7 mins              ██████████████████████░░░   88.72 % 
+blog                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
 
 💻 Operating System: 
-Mac                      26 mins             █████████████████████████   100.00 % 
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (90.57%)
+⏱ AI Coding Time: 7 mins (87.64%)
 
 ✍️ 35 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 192,854 Input Tokens, 20,328 Output Tokens
+🔤 97,257 Input Tokens, 8,166 Output Tokens
 
 💵 $2.01 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 4 AI Prompts
+🧠 1 AI Sessions, 0 AI Prompts
 
 Glm                      35 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 321 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/10/2026 23:50:52 UTC
+ Last Updated on 06/10/2026 22:27:28 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
