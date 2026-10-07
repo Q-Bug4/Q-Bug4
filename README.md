@@ -40,45 +40,26 @@ Sunday                   235 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     7 mins              ████████████████████░░░░░   81.81 % 
-Markdown                 0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-open_deep_research       7 mins              ██████████████████████░░░   88.72 % 
-blog                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (87.64%)
-
-✍️ 35 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 97,257 Input Tokens, 8,166 Output Tokens
-
-💵 $2.01 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 0 AI Prompts
-
-Glm                      35 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 06/10/2026 22:27:28 UTC
+ Last Updated on 07/10/2026 22:51:40 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
