@@ -40,35 +40,35 @@ Sunday                   235 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   37 mins             █████████░░░░░░░░░░░░░░░░   37.41 % 
-Bash                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-Other                    18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Markdown                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Python                   37 mins             █████████░░░░░░░░░░░░░░░░   36.96 % 
+Bash                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Other                    19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Markdown                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 🔥 Editors: 
-Claude Code              1 hr 10 mins        ██████████████████░░░░░░░   70.25 % 
-Hermes                   16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-VS Code                  13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Claude Code              1 hr 11 mins        ██████████████████░░░░░░░   70.61 % 
+Hermes                   16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+VS Code                  13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
 
 🐱‍💻 Projects: 
-opensource-model-daily-re1 hr 38 mins        ████████████████████████░   97.99 % 
-tau-bench                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+opensource-model-daily-re1 hr 39 mins        █████████████████████████   98.01 % 
+tau-bench                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 💻 Operating System: 
-Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 26 mins (86.95%)
+⏱ AI Coding Time: 1 hr 28 mins (87.11%)
 
 ✍️ 431 lines written by AI, 2 lines written by hand (99.54% AI-written)
 
-🔤 1,030,916 Input Tokens, 54,191 Output Tokens
+🔤 1,103,380 Input Tokens, 54,583 Output Tokens
 
-💵 $17.04 Estimated AI Cost This Week
+💵 $17.48 Estimated AI Cost This Week
 
 🧠 4 AI Sessions, 21 AI Prompts
 
@@ -82,7 +82,7 @@ GLM                      438 lines           ███████████�
 ```
 
 
- Last Updated on 15/10/2026 21:02:30 UTC
+ Last Updated on 16/10/2026 20:37:53 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
