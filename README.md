@@ -40,49 +40,48 @@ Sunday                   235 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   37 mins             █████████░░░░░░░░░░░░░░░░   36.96 % 
-Bash                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Other                    19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Markdown                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Python                   20 mins             █████████░░░░░░░░░░░░░░░░   34.59 % 
+Bash                     19 mins             ████████░░░░░░░░░░░░░░░░░   32.71 % 
+Other                    16 mins             ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🔥 Editors: 
-Claude Code              1 hr 11 mins        ██████████████████░░░░░░░   70.61 % 
-Hermes                   16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-VS Code                  13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Claude Code              32 mins             █████████████░░░░░░░░░░░░   53.96 % 
+Hermes                   14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+VS Code                  13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
 
 🐱‍💻 Projects: 
-opensource-model-daily-re1 hr 39 mins        █████████████████████████   98.01 % 
-tau-bench                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+opensource-model-daily-re1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 41 mins        █████████████████████████   100.00 % 
+Mac                      1 hr                █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 28 mins (87.11%)
+⏱ AI Coding Time: 47 mins (78.34%)
 
-✍️ 431 lines written by AI, 2 lines written by hand (99.54% AI-written)
+✍️ 44 lines written by AI, 2 lines written by hand (95.65% AI-written)
 
-🔤 1,103,380 Input Tokens, 54,583 Output Tokens
+🔤 842,036 Input Tokens, 21,229 Output Tokens
 
-💵 $17.48 Estimated AI Cost This Week
+💵 $10.53 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 21 AI Prompts
+🧠 2 AI Sessions, 11 AI Prompts
 
-GLM                      438 lines           █████████████████████████   100.00 % 
+GLM                      51 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.54% of written lines came from AI
-📚 Verbose Prompter — average 4,850 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.68% of changed lines were hand-edited
+🤖 AI-Driven — 95.65% of written lines came from AI
+📝 Concise Prompter — average 44 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 5.56% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/10/2026 20:37:53 UTC
+ Last Updated on 17/10/2026 20:16:29 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
