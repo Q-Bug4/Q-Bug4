@@ -40,44 +40,42 @@ Sunday                   235 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    20 mins             ██████████████░░░░░░░░░░░   54.53 % 
-Python                   17 mins             ███████████░░░░░░░░░░░░░░   45.47 % 
+Other                    20 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              37 mins             █████████████████████████   100.00 % 
+Claude Code              20 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-opensource-model-daily-re37 mins             █████████████████████████   100.00 % 
+opensource-model-daily-re20 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      37 mins             █████████████████████████   100.00 % 
+Mac                      20 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 mins (100.0%)
+⏱ AI Coding Time: 20 mins (100.0%)
 
-✍️ 4 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 538,530 Input Tokens, 16,584 Output Tokens
+🔤 376,888 Input Tokens, 8,192 Output Tokens
 
-💵 $7.73 Estimated AI Cost This Week
+💵 $3.85 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 7 AI Prompts
+🧠 2 AI Sessions, 6 AI Prompts
 
-GLM                      3 lines             ███████████████████░░░░░░   75.00 % 
-Hermes                   1 lines             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,082 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 2,423 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/10/2026 21:54:58 UTC
+ Last Updated on 28/10/2026 22:18:50 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
