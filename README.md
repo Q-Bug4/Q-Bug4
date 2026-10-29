@@ -59,23 +59,23 @@ Mac                      20 mins             ███████████�
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 376,888 Input Tokens, 8,192 Output Tokens
+🔤 376,077 Input Tokens, 7,961 Output Tokens
 
-💵 $3.85 Estimated AI Cost This Week
+💵 $3.36 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 6 AI Prompts
+🧠 1 AI Sessions, 6 AI Prompts
 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
 📚 Verbose Prompter — average 2,423 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/10/2026 22:18:50 UTC
+ Last Updated on 29/10/2026 22:32:14 UTC
 <!--END_SECTION:waka-->
 
 #### 🎵 &nbsp;**Spotify playing**  
